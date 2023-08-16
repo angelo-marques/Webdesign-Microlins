@@ -1,0 +1,377 @@
+.tz-header-5 .tz-menu li .active {
+    color: cyan;
+    font-weight: 700;
+}
+
+.curso-topo {
+    margin-top: 0px;
+}
+
+.curso {
+    text-align: left;
+    padding-bottom: 0px !important;
+}
+
+.curso h3 {
+    color: #0076a3;
+    font-weight: 700;
+    font-size: 29px;
+    padding-bottom: 10px;
+}
+.curso h4 {
+    padding: 0px;
+}
+.curso p {
+    color:#000;
+    margin-bottom: 6px;
+}
+.curso p.left{
+    margin-left: 15px;
+}
+.curso .title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #ba051d;
+    margin-bottom: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.curso .sub-title {
+    font-size: 12px;
+    text-align: justify;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.curso hr {
+    margin: 3px;
+}
+
+curso-categoria {
+    height: 350px;
+    margin-bottom: 40px;
+}
+
+.tz-image-item {
+    float: none;
+    width: 100%;
+}
+
+.tz-portfolio-content {
+    width: 100%;
+}
+
+.img-ico-informatica {
+    background-image: url(../imagens/curso/informatica1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-design {
+    background-image: url(../imagens/curso/disign1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-admin {
+    background-image: url(../imagens/curso/adm1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-saude {
+    background-image: url(../imagens/curso/saude1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-industria {
+    background-image: url(../imagens/curso/industria1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-ingles {
+    background-image: url(../imagens/curso/ingles1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-turismo {
+    background-image: url(../imagens/curso/turismo1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-ico-preparatorio {
+    background-image: url(../imagens/curso/preparatorio1.png);
+    width: 100%;
+    height: 55px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    top: -27px;
+}
+
+.img-info-informatica {
+    background-image: url(../imagens/curso/informatica.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-design {
+    background-image: url(../imagens/curso/disign.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-admin {
+    background-image: url(../imagens/curso/adm.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-saude {
+    background-image: url(../imagens/curso/saude.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-industria {
+    background-image: url(../imagens/curso/industria.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-ingles {
+    background-image: url(../imagens/curso/ingles2.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-turismo {
+    background-image: url(../imagens/curso/turismo.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.img-info-preparatorio {
+    background-image: url(../imagens/curso/preparatorio.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 15px 0px -15px 0px;
+}
+
+.curso-font {
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    padding: 15px 0px !important;
+    margin-top: -20px;
+}
+
+.curso-fundo {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…VpZ2h0PSIxMDEiIGZpbGw9InVybCgjZ3JhZC11Y2dnLWdlbmVyYXRlZCkiIC8+Cjwvc3ZnPg==);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(253, 253, 253, 1) 17%, rgba(249, 249, 249, 1) 62%, rgba(206, 206, 206, 1) 100%);
+    background: -webkit-gradient(radial, center center, 0, center center, 100%, color-stop(17%, rgba(253, 253, 253, 1)), color-stop(62%, rgba(249, 249, 249, 1)), color-stop(100%, rgba(206, 206, 206, 1)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(253, 253, 253, 1) 17%, rgba(249, 249, 249, 1) 62%, rgba(206, 206, 206, 1) 100%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(253, 253, 253, 1) 17%, rgba(249, 249, 249, 1) 62%, rgba(206, 206, 206, 1) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(253, 253, 253, 1) 17%, rgba(249, 249, 249, 1) 62%, rgba(206, 206, 206, 1) 100%);
+    background: radial-gradient(ellipse at center, rgba(253, 253, 253, 1) 17%, rgba(249, 249, 249, 1) 62%, rgba(206, 206, 206, 1) 100%);
+}
+
+.curso-geral {
+    margin-bottom: 10px;
+}
+.curso-geral .bg {
+    background: #999;
+}
+.curso-geral .bg:hover {
+    background: #1d4279;
+}
+.curso-geral .bga {
+    background: #999;
+}
+.curso-geral .bga:hover {
+    background: #1689B9;
+}
+.curso-geral .bgam {
+    background: #999;
+}
+.curso-geral .bgam:hover {
+    background: #ffcf01;
+}
+.curso-geral .bgv {
+    background: #999;
+}
+.curso-geral .bgv:hover {
+    background: #16a765;
+}
+.curso-geral .bgl {
+    background: #999;
+}
+.curso-geral .bgl:hover {
+    background: #9370db;
+}
+.curso-geral .bgvg {
+    background: #999;
+}
+.curso-geral .bgvg:hover {
+    background: #7ac143;
+}
+.curso-geral .bgla {
+    background: #999;
+}
+.curso-geral .bgla:hover {
+    background: #f37321;
+}
+.curso-geral .z-padding {
+padding: 0;
+}
+.set{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+/* -----========================== final do style do curso ==========================-----*/
+.empresa{
+ margin-top: 0px;
+}
+.empresa-h4{
+    text-align: center;
+    font-family: 'Source Sans Pro',sans-serif;
+    padding: 28px 0 28px !important;
+}
+.empresa-span{
+    font-family: 'Source Sans Pro',sans-serif;
+    border-bottom: 1px solid #636464;
+    padding-bottom: 5px;
+}
+.empresa-h2{
+    font-family: 'Source Sans Pro',sans-serif;
+}
+.empresa-p{
+    margin-bottom: 0px !important;
+    font-size: 12px;
+    text-align: center!important;
+    color: black !important;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.empresa .font p{
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.empresa .vermelho h2{
+    padding: 10px;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+.empresa .vermelho p{
+    padding: 10px;
+    text-align: left;
+    color: #ffffff;
+    margin: 0;
+}
+.empresa .azul h2{
+    padding: 10px;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+.empresa .azul p{
+    padding: 10px;
+    text-align: left;
+    color: #ffffff;
+    margin: 0;
+}
+.vermelho{
+    background-color: #ec555c;
+}
+.azul{
+    background-color: #0076a3;
+}
+/*---=========== geral =========--- */
+.geral-topo{
+    margin-top: 0px;
+    text-align: left;
+    padding-bottom: 0px !important;
+    padding: 15px 50px 1px 50px  !important;
+}
+.font-azul{
+    color:#00377a;
+}
+.font{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.sombra{
+    box-shadow: 0px 13px 14px -13px #000;
+}
+.description{
+    font-weight: 400;
+     font-size: 12px;
+    text-align: justify;
+    color: black !important;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 6px !important;
+}
